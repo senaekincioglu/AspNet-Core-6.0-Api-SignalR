@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
       "projectName": "SignalR.DtoLayer",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalR.DtoLayer\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalR.DtoLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

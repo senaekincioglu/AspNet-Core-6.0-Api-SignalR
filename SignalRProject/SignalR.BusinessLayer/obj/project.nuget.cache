@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdSnUPzoXF1WMAsOycuP5mGX4w0dwGodWLwjys9P8ppazZRUFBY6MOaFaWCZ2r07F3zurqNKB8hgtC5RnWD+Lg==",
+  "dgSpecHash": "NveMOF5cA+Z9CAMgfcYdu57RaRQsC8ZD5L/qC+wnE59sNITSGmMQgrYBy/Dc/LdmT8LLUE/78P9JbVoDc47msQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

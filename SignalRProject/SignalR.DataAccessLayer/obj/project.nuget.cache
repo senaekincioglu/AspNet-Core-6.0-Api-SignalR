@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1h0DypBemizdtMj/AQOl5ho4E1wlRVxw3O6l3yPiOaxgn1RBFqgmldL97c35aOaYRSSCwLYpzNw3Hk3qmZMzw==",
+  "dgSpecHash": "mAc5qD+GZjFzQQhvkOpb/5Ng17P7cwaNiNF65JqNKjQfAuwrerhBNYFMwkxzVtYU3nZZjiCzywU+RgU2Omo6Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

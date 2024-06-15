@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iLL8StBjcAVYvuAIoO17wlqdtPSwegkdhgrWXWBHTSzU2PHjh8dglVSOqmpQyEsmiXawVW7/fjErgVi4TE4ewA==",
+  "dgSpecHash": "IxiR7ipwS4yp18xfapTIVm3IjPKT059LFKETGEQuigpETG4YMuDBfNNFrCufXFcDSGCBUXXoJacIijhU++AS4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ÖGRENECEKLERİM\\1. Unuttuklarımı öğrenmek için\\3. .Net Core 6.0 Api Murat Yücedağ\\AspNet-Core-6.0-Api-SignalR\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
