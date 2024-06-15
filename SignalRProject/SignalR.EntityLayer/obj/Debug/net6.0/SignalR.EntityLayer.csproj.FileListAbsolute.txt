@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.deps.json
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\refint\SignalR.EntityLayer.dll
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\Lenovo\Desktop\ÖGRENECEKLERİM\1. Unuttuklarımı öğrenmek için\3. .Net Core 6.0 Api Murat Yücedağ\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\ref\SignalR.EntityLayer.dll
