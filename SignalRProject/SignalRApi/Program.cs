@@ -7,9 +7,15 @@ using SignalR.DataAccessLayer.EntityFramework;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
 builder.Services.AddDbContext<SignalRContext>();
+
 builder.Services.AddScoped<IAboutService, AboutManager>(); //Burda diyor ki IAboutService gördüðün zaman AboutManager sýnýfýný çaðýr
-builder.Services.AddScoped<IAboutDal,EfAboutDal>(); //IAboutDal sýnýfýný gördüðün zaman EfAboutDal sýnýfýný çaðýr diyor. 
+builder.Services.AddScoped<IAboutDal,EfAboutDal>(); //IAboutDal sýnýfýný gördüðün zaman EfAboutDal sýnýfýný çaðýr diyor.  Aynýsý aþaðýdaki class lar için de geçerli
+
+builder.Services.AddScoped<IBookingService,BookingManager>();
+builder.Services.AddScoped<IBookingDal,EfBookingDal>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
